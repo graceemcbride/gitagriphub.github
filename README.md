@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>P3471 Work Space</title> 
+<title> P3471 Work Space </title> 
 <style>
   body {
     background-color: #f3fce3; /* Side margins-adjust as needed */
